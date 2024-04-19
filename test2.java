@@ -1,7 +1,7 @@
 import org.junit.jupiter.api.*;
 
 import static org.junit.jupiter.api.Assertions.*;
-public class test2 {
+public class Test2 {
 @Test
 public void testSoNguyenTo0() {
     int n = 0;
